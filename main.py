@@ -8,5 +8,7 @@ screen.title("Snake game")
 turk = Turtle()
 cetin = Turtle()
 
+mv.sample()
+
 
 screen.exitonclick()
