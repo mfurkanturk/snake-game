@@ -8,3 +8,8 @@ turk = Turtle()
 
 
 screen.exitonclick()
+
+#! Warn'ng comment
+#? Q comment
+#* Highlight comment
+#TODO comment
