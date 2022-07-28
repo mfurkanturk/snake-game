@@ -1,5 +1,5 @@
 from turtle import Turtle, Screen
-import movement as mv
+import body as mv
 
 
 screen = Screen()
