@@ -3,10 +3,10 @@ import body as mv
 
 
 screen = Screen()
-screen.bgcolor("black")
+screen.bgcolor("white")
 screen.title("Snake game")
 turk = Turtle()
-cetin = Turtle()
+
 
 mv.sample()
 
