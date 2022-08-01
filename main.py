@@ -1,15 +1,17 @@
 from turtle import Turtle, Screen
-
+import body as mv
 
 screen = Screen()
-screen.bgcolor("black")
+
+screen.listen()
+
+
+screen.bgcolor("green")
 screen.title("Snake game")
 turk = Turtle()
+mv.drawBody(5) #Örnek skor girdisi 5
+
+
 
 
 screen.exitonclick()
-
-#! Warn'ng comment
-#? Q comment
-#* Highlight comment
-#TODO comment
